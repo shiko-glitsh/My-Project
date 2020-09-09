@@ -2,6 +2,8 @@ body{
   font-family: sens-serif;
   color: #777777;
   line-height: 26px;
+  padding: 0;
+  margin: 0;
 }
 .purple-name{
   color: #8845f4;
